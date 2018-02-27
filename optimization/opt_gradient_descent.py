@@ -82,16 +82,6 @@ def feature_normalization(init_samples):
     return ret_samples
 
 
-def calc_gradient(alpha):
-    """
-    计算梯度
-
-    theta = theta - alpha * gradient
-
-    """
-    pass
-
-
 def main(init_samples):
     """
     计算梯度
